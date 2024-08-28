@@ -31,7 +31,7 @@ body {
   list-style: none;
   display: flex;
   gap: 20px;
-  margin-left: 35em;
+  margin-left: 32em;
 }
 
 .nav-links li a {
@@ -42,7 +42,7 @@ body {
 
 /* Login Button */
 .login {
-  margin-left: auto;
+  margin-right: 5em;
 }
 
 .login-btn {
